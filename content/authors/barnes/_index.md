@@ -65,9 +65,9 @@ social:
   #- icon: github
   #  icon_pack: fab
   #  link: https://github.com/mkhairy
-  #- icon: linkedin
-  #  icon_pack: fab
-  #  link: https://www.linkedin.com/in/mahmoud-khairy-0b999640/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/aaron-barnes88/
   #- icon: website
   #  link: https://aaronbarnes.org/
   # Link to a PDF of your resume/CV.
