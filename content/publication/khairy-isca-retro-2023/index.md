@@ -6,7 +6,7 @@ title: 'RETROSPECTIVE: Accel-sim: An Extensible Simulation Framework for Validat
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - khairy
-  - Zhesheng Shen
+  - shen-masc
   - Tor M. Aamodt
   - admin
 
