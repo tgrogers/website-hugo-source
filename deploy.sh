@@ -1,1 +1,1 @@
-rsync -aP public/* tgrogers@dynamo:~/website/
+rsync -aP public/* tgrogers@dynamo.ecn.purdue.edu:~/website/

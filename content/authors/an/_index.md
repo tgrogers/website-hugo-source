@@ -20,8 +20,8 @@ superuser: false
 # Role/position/tagline
 role: "PhD Student"
 
-#interests:
-#    - "Current Postion: Researcher at AMD."
+interests:
+    - "Internships: Arm (Summer 2023)"
 
 # Organizations/Affiliations to show in About widget
 #organizations:
