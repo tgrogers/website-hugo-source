@@ -68,7 +68,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/fangjia-shen/
-  - icon: home
+  - icon: globe-alt
     link: https://engineering.purdue.edu/people/fangjia.shen.1
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
