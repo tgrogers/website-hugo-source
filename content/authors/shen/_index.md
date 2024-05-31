@@ -68,7 +68,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/fangjia-shen/
-  - icon: global-alt
+  - icon: globe-alt
     icon_pack: hero
     link: https://engineering.purdue.edu/people/fangjia.shen.1
   # Link to a PDF of your resume/CV.
