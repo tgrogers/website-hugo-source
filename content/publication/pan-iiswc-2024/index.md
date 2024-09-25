@@ -40,7 +40,7 @@ featured: true
 
 
 
-#url_pdf: ''
+url_pdf: './pan-iiswc-2024.pdf'
 
 
 # Featured image

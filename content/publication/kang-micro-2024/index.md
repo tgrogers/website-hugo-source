@@ -1,5 +1,5 @@
 ---
-title: 'Concurrency-Aware Register Stacks'
+title: 'Concurrency-Aware Register Stacks for Efficient GPU Function Calls'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -26,7 +26,7 @@ publication_short: In *MICRO 2024*
 abstract: Since the early days of computers, dividing a program into functions or subroutines has been a common way to manage complexity. Functions make programs easier to read, facilitate code reuse, and provide clean interfaces for separate compilation. However, function calls incur runtime overhead. We quantify the impact of this runtime overhead on GPUs and demonstrate that the register spills/fills required to maintain the function call application binary interface place significant bandwidth and capacity pressure on shared resources. To alleviate this overhead, we introduce Concurrency-Aware Register Stacks (CARS), a hardware mechanism that re-purposes segments of the GPU register file as a software-controlled hardware stack. CARS exploits the regularity in function prologue/epilogues to rename registers pushed to the stack with linear base + offset addressing, similar to the baseline GPU. Informed by lightweight call graph analysis and dynamic function behavior, CARS balances the space devoted to register stacks with the concurrency required to hide latency in GPUs. Without harming function-free programs, CARS improves the performance and energy efficiency of twenty-two function-calling applications by 25% and 30%, respectively, outperforming idealized GPUs with impractical resources.
 
 # Summary. An optional shortened abstract.
-summary: We propose a novel mechanism to enable efficient runtime function calls on massively multithreaded GPUs by dynamically allocating register space to adhere to caller-saved ABI conventions.
+summary: We propose a novel mechanism to enable efficient runtime function calls on massively multithreaded GPUs by dynamically allocating register space to adhere to callee-saved ABI conventions.
 
 tags: []
 
@@ -40,7 +40,7 @@ featured: true
 
 
 
-#url_pdf: '/khairy-micro-2022.pdf'
+url_pdf: './kang-micro-2024.pdf'
 
 
 # Featured image

@@ -39,7 +39,7 @@ featured: true
 
 
 
-#url_pdf: '/khairy-micro-2022.pdf'
+url_pdf: '/barnes-micro-2024.pdf'
 
 
 # Featured image
