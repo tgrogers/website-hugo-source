@@ -42,7 +42,7 @@ featured: true
 
 
 
-url_pdf: './bose-iiswc-extended_abstract-2024.pdf'
+url_pdf: './bose-iiswc-poster-2024.pdf'
 
 
 # Featured image
