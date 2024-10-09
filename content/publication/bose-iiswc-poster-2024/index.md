@@ -6,6 +6,9 @@ title: 'MAccel-sim: A multi-gpu simulator for architectural exploration'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - bose
+  - avalos
+  - pan
+  - khairy
   - admin
 
 publishdate: '2024-07-16T00:00:00Z'
