@@ -19,7 +19,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: 'In 2024 IEEE International Symposium on Workload Characterization'
-publication_short: In *IISWC 2024*.
+publication_short: In *IISWC 2024*. **<span style="color:red">Best Paper Nominee</span>**
 
 abstract: 'Programmable graphics and compute shaders have blurred the lines between graphics processing and general-purpose computation. APIs such as Asynchronous Compute enable the concurrent execution of raster-based graphics shaders with more general, parallel computation, and emerging graphics and computation-heavy workloads in areas such as augmented and virtual reality can benefit from spatially sharing a GPU.
 
