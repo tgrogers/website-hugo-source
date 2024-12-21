@@ -22,7 +22,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: 'In 2024 IEEE International Symposium on Workload Characterization (poster)'
-publication_short: In *IISWC 2024 (poster)*.
+publication_short: In *IISWC 2024 (poster)*
 
 abstract: 'Graphical processing units (GPUs) have found use in plethora of modern day applications such as machine learning and data analytics. GPU architectural simulators have been built to enable hardware-software codesigning to extract peak performance and performance per watt from such architectures. Many applications such as recommendation models and graph neural networks
 benefit from the use of multi-GPUs to scale up the size of the workload and/or processing throughput. Current open-sourced GPU architectural simulators have traditionally not been able to efficiently model multi-GPU workloads that can cater to a wide variety of applications. In computer architecture, it is no secret that innovation is often powered by the industry. However, the simulation tools used by industry are often closed sourced and hence limiting in the goal to democratize architectural research. This paper proposes an initial design of Maccelsim that extends Accel-sim for a multi-GPU setup. We highlight the limitations of popular state-of-the-art GPU architectural simulators and propose mechanisms to improve both user experience and simulation performance. Finally, in conclusion, we show an example use case of such a simulator for machine learning  performance optimization. Upon completion and successful validation, we aim to open-source this work to democratize architectural studies and further push the envelope of GPU research.'
