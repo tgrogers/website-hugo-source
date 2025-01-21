@@ -68,9 +68,9 @@ social:
   #  label: Follow me on Twitter
   #  display:
   #    header: true
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/mkhairy
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/ahmad-alawneh-7ba3a2348/
   - icon: globe
     link: https://a-alawneh.github.io
   # Link to a PDF of your resume/CV.
