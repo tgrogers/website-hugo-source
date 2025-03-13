@@ -8,7 +8,7 @@ title: Aaron Barnes
 # Full name (for SEO)
 first_name: Aaron
 last_name: Barnes
-user_groups: ["PhD Student"]
+user_groups: ["PhD Grads"]
 
 # Status emoji
 #status:
@@ -18,10 +18,10 @@ user_groups: ["PhD Student"]
 superuser: false
 
 # Role/position/tagline
-role: "PhD Student"
+role: "PhD Graduate, 2025."
 
 interests:
-    - "Internships: AMD Research (Spring 2023), Intel (Fall 2021), Arm  (Summer 2019)"
+    - "Current Position: Research Scientist at Meta"
 
 # Organizations/Affiliations to show in About widget
 #organizations:
