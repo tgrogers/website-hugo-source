@@ -8,7 +8,7 @@ title: Shreya Gaur
 # Full name (for SEO)
 first_name: Shreya
 last_name: Gaur
-user_groups: ["Masters Thesis"]
+user_groups: ["Masters Project Grads"]
 
 # Status emoji
 #status:
@@ -18,10 +18,10 @@ user_groups: ["Masters Thesis"]
 superuser: false
 
 # Role/position/tagline
-role: "Masters Thesis Student"
+role: "Masters Project. 2024."
 
 interests:
-    - "Internships: NVIDIA (Summer 2024)"
+    - "Last Known Position: Deep Learning Performance Engineer, NVIDIA."
 
 # Organizations/Affiliations to show in About widget
 #organizations:

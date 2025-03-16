@@ -20,8 +20,8 @@ superuser: false
 # Role/position/tagline
 role: "PhD Student"
 
-#interests:
-#    - "Internships: AMD Research (Spring 2023), Intel (Fall 2021), Arm  (Summer 2019)"
+interests:
+    - "Internships: NVIDIA Research (Spring 2025)"
 
 # Organizations/Affiliations to show in About widget
 #organizations:

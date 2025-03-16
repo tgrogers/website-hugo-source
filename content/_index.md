@@ -75,19 +75,19 @@ sections:
         show_role: true
   - block: people
     content:
-      title: Masters/Undergraduate Students
+      title: PhD Alumni
       user_groups:
-        - Masters Thesis
-        - Masters Project
-        - Undergrad Research
+        - PhD Grads
     design:
         show_social: true
         show_role: true
   - block: people
     content:
-      title: PhD Alumni
+      title: Masters/Undergraduate Students
       user_groups:
-        - PhD Grads
+        - Masters Thesis
+        - Masters Project
+        - Undergrad Research
     design:
         show_social: true
         show_role: true

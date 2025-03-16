@@ -20,8 +20,8 @@ superuser: false
 # Role/position/tagline
 role: "PhD Student"
 
-#interests:
-#    - "Internships: NVIDIA (Summer 2024)"
+interests:
+    - "Internships: Samsung (Spring/Summer 2025)"
 
 # Organizations/Affiliations to show in About widget
 #organizations:

@@ -21,7 +21,7 @@ superuser: false
 role: "PhD Student"
 
 interests:
-    - "Internships: Arm (Summer 2023)"
+    - "Internships: Arm (Summer 2023), NVIDIA Research (Spring 2025)"
 
 # Organizations/Affiliations to show in About widget
 #organizations:
