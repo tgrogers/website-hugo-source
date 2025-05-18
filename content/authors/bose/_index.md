@@ -21,7 +21,7 @@ superuser: false
 role: "PhD Student"
 
 interests:
-    - "Internships: Meta (Spring 2022), Google (Summer 2021)"
+    - "Internships: Microsoft Research (Summer 2025), Meta (Spring 2022), Google (Summer 2021)"
 
 # Organizations/Affiliations to show in About widget
 #organizations:

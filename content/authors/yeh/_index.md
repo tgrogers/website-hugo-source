@@ -21,7 +21,7 @@ superuser: false
 role: "PhD Graduate, 2020."
 
 interests:
-    - "Current Position: Assistant Professor, Department of Computer Science, National Chiao Tung University"
+    - "Current Position: Associate Professor, Department of Computer Science, National Chiao Tung University"
 
 # Organizations/Affiliations to show in About widget
 #organizations:
@@ -39,17 +39,17 @@ bio:
 #  - Computer Systems
 
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD in Computer Engineering
-      institution: Purdue University
-      year: 2022
-    - course: MSc, Computer Engineering
-      institution: Cairo University
-      year: 2015
-    - course: BS, Computer Engineering
-      institution: Cairo University
-      year: 2011
+#education:
+#  courses:
+#    - course: PhD in Computer Engineering
+#      institution: Purdue University
+#      year: 2022
+#    - course: MSc, Computer Engineering
+#      institution: Cairo University
+#      year: 2015
+#    - course: BS, Computer Engineering
+#      institution: Cairo University
+#      year: 2011
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -68,12 +68,14 @@ social:
   #  label: Follow me on Twitter
   #  display:
   #    header: true
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/mkhairy
+  #- icon: github
+  #  icon_pack: fab
+  #  link: https://people.cs.nycu.edu.tw/~ttyeh/
+  - icon: globe
+    link: https://people.cs.nycu.edu.tw/~ttyeh/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/mahmoud-khairy-0b999640/
+    link: https://www.linkedin.com/in/tsungtai-yeh-b704a179/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
