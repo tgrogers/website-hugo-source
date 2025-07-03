@@ -40,7 +40,7 @@ featured: true
 
 
 
-#url_pdf: '/barnes-micro-2024.pdf'
+url_pdf: './shen-ispass-2025.pdf'
 
 
 # Featured image
