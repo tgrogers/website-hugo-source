@@ -33,7 +33,7 @@ summary: We propose a new open-source multi-GPU simulator that supports end-to-e
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -42,7 +42,7 @@ featured: true
 
 
 
-url_pdf: './bose-ispass-extended_abstract-2025.pdf'
+url_pdf: './bose-ispass-poster-2025.pdf'
 
 
 # Featured image
