@@ -6,6 +6,10 @@ title: 'ASLink: Modeling Multi-GPU Execution in Accel-Sim'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - bose
+  - avalos
+  - pan
+  - liu
+  - khairy
   - admin
 
 publishdate: '2025-05-11T00:00:00Z'
