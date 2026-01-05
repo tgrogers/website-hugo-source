@@ -81,13 +81,13 @@ sections:
     design:
         show_social: true
         show_role: true
-  - block: people
-    content:
-      title: Masters/Undergraduate Students
-      user_groups:
-        - Masters Thesis
-        - Masters Project
-        - Undergrad Research
+#  - block: people
+#    content:
+#      title: Masters/Undergraduate Students
+#      user_groups:
+#        - Masters Thesis
+#        - Masters Project
+#        - Undergrad Research
     design:
         show_social: true
         show_role: true

@@ -8,7 +8,7 @@ title: Fangjia Shen
 # Full name (for SEO)
 first_name: Fangjia
 last_name: Shen
-user_groups: ["PhD Student"]
+user_groups: ["PhD Grads"]
 
 # Status emoji
 #status:
@@ -18,10 +18,11 @@ user_groups: ["PhD Student"]
 superuser: false
 
 # Role/position/tagline
-role: "PhD Student"
+role: "PhD Graduate, 2025"
 
 interests:
-    - "Internships: NVIDIA Research (Spring 2025)"
+     - "Current Postion: GPU Architect at NVIDIA"
+#    - "Internships: NVIDIA Research (Spring 2025)"
 
 # Organizations/Affiliations to show in About widget
 #organizations:

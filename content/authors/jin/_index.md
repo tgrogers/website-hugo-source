@@ -8,7 +8,7 @@ title: Zhaoyu Jin
 # Full name (for SEO)
 first_name: Zhaoyu
 last_name: Jin
-user_groups: ["Masters Thesis"]
+user_groups: ["Masters Thesis Grads"]
 
 # Status emoji
 #status:
@@ -18,10 +18,11 @@ user_groups: ["Masters Thesis"]
 superuser: false
 
 # Role/position/tagline
-role: "Masters Thesis Student"
+role: "Masters Thesis, 2025"
 
 interests:
-    - "Internships: Qualcomm SoC Architecture (Summer 2024)"
+     - "Last Known Postiion: PhD Student, Purdue"
+#    - "Internships: Qualcomm SoC Architecture (Summer 2024)"
 
 # Organizations/Affiliations to show in About widget
 #organizations:
