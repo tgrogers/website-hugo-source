@@ -20,8 +20,8 @@ date: '2026-09-27T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: 'In 2026 IEEE International Symposium on Workload Characterization'
-publication_short: In *IISWC 2026*
+publication: 'Accepted to appear in 2026 IEEE International Symposium on Workload Characterization'
+publication_short: Accepted to appear in *IISWC 2026*
 
 abstract: 'The Tensor Memory Accelerator (TMA), introduced on NVIDIA Hopper, is used pervasively in production GPU kernels yet its usage is conspicuously selective: expert kernel developers in CUTLASS, FlashAttention-3, and FlashInfer apply TMA to some tensor operands within a kernel but fall back to cp.async, direct global loads, or distributed shared memory (DSM) for others. Vendor documentation describes the API, and recent microbenchmarking work characterizes TMA throughput in isolation, but neither answers the question practitioners actually face: given a memory operand in a kernel, should it use TMA, and if so, with or without cluster multicast? We address this gap with a workload-grounded characterization study on H100. We catalog the TMA, multicast, DSM, and cp.async choices made inside FlashAttention-3 forward, isolate the discriminating features through targeted microbenchmarks (transfer-size crossover, multicast scaling), and produce rules of thumb for the load-mechanism choice on Hopper. We further compare TMA multicast against DSM as competing cluster-broadcast primitives, and isolate the FlashAttention-3 paged-key-value (KV) TMA-vs-cp.async dispatch on H100 across page size, datatype, model shape, and execution phase. Our results yield concrete, predictive guidance on when TMA pays off and when multicast helps or hurts on Hopper, and we discuss how the same analysis would extend to server Blackwell (SM100) GPUs.'
 

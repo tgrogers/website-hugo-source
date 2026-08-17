@@ -19,8 +19,8 @@ date: '2027-04-11T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: 'In Proceedings of the 32nd ACM International Conference on Architectural Support for Programming Languages and Operating Systems'
-publication_short: In *ASPLOS 2027*
+publication: 'Conditionally accepted to appear in Proceedings of the 32nd ACM International Conference on Architectural Support for Programming Languages and Operating Systems'
+publication_short: Conditionally accepted to appear in *ASPLOS 2027*
 
 abstract: 'NVIDIA GPUs are ubiquitous in AI, HPC, and graphics, yet their native SASS instruction set remains undocumented. No public infrastructure exists to answer fundamental questions: which instructions exist on a given architecture, what encodings the hardware accepts, and how instructions behave at the microarchitectural level. Each research effort must rediscover encoding formats, build ad-hoc tooling, and reverse-engineer instruction semantics from scratch. We present EoSS, an end-to-end framework for systematic SASS exploration. EoSS extracts machine-readable instruction specifications from data embedded in NVIDIA tooling, generates valid instruction encodings, and executes them on real hardware through binary patching. The framework produces complete toolchains, kernel templates, operand setup, and measurement harnesses, that turn opaque SASS into a workable experimental interface. We release validated instruction sets for seven architectures spanning Volta through Blackwell, from 443 to 1239 executable instruction classes per generation. Our infrastructure supports diverse research tasks: reverse-engineering and executing exotic ray-tracing instructions, performing extensive timing characterization across execution pipelines, measuring contention-based timing effects on resources unreachable through PTX, and systematically probing undocumented special registers. EoSS provides the missing foundation for GPU ISA research, making native SASS exploration routine and reproducible for compiler optimization, performance modeling, and security analysis on modern GPUs.'
 
