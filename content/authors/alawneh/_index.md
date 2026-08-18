@@ -8,7 +8,7 @@ title: Ahmad Alawneh
 # Full name (for SEO)
 first_name: Ahmad
 last_name: Alawneh
-user_groups: ["PhD Student"]
+user_groups: ["PhD Grads"]
 
 # Status emoji
 #status:
@@ -18,7 +18,7 @@ user_groups: ["PhD Student"]
 superuser: false
 
 # Role/position/tagline
-role: "PhD Student"
+role: "PhD Graduate, 2026."
 
 interests:
     - "Internships: AMD Reseaerch (Spring/Summer 2024), Apple (2022)"
