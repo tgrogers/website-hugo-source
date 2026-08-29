@@ -21,7 +21,8 @@ superuser: false
 role: "PhD Graduate, 2026."
 
 interests:
-    - "Internships: AMD Reseaerch (Spring/Summer 2024), Apple (2022)"
+    - "Current Position: Senior GPU Systems Engineer at NVIDIA"
+#    - "Internships: AMD Reseaerch (Spring/Summer 2024), Apple (2022)"
 
 # Organizations/Affiliations to show in About widget
 #organizations:
