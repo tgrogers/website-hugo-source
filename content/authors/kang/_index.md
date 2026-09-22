@@ -8,7 +8,7 @@ title: Ni Kang
 # Full name (for SEO)
 first_name: Ni
 last_name: Kang
-user_groups: ["PhD Student"]
+user_groups: ["PhD Grads"]
 
 # Status emoji
 #status:
@@ -18,10 +18,10 @@ user_groups: ["PhD Student"]
 superuser: false
 
 # Role/position/tagline
-role: "PhD Student"
+role: "PhD Graduate, 2026"
 
 interests:
-    - "Internships: NVIDIA (Summer 2024, Summer 2025)"
+    - "Current Position: GPU Architect at NVIDIA"
 
 # Organizations/Affiliations to show in About widget
 #organizations:
@@ -43,13 +43,13 @@ education:
   courses:
     - course: PhD in Computer Engineering
       institution: Purdue University
-      year: 2022
-    - course: MSc, Computer Engineering
-      institution: Cairo University
-      year: 2015
-    - course: BS, Computer Engineering
-      institution: Cairo University
-      year: 2011
+      year: 2026
+#    - course: MSc, Computer Engineering
+#      institution: Cairo University
+#      year: 2015
+#    - course: BS, Computer Engineering
+#      institution: Cairo University
+#      year: 2011
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
