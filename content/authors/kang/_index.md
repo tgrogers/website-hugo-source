@@ -9,6 +9,7 @@ title: Ni Kang
 first_name: Ni
 last_name: Kang
 user_groups: ["PhD Grads"]
+graduation_date: "2026"
 
 # Status emoji
 #status:

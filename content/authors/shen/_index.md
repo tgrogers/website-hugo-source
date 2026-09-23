@@ -9,6 +9,7 @@ title: Fangjia Shen
 first_name: Fangjia
 last_name: Shen
 user_groups: ["PhD Grads"]
+graduation_date: "2025"
 
 # Status emoji
 #status:

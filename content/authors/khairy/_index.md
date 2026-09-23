@@ -9,6 +9,7 @@ title: Mahmoud Khairy
 first_name: Mahmoud
 last_name: Khairy
 user_groups: ["PhD Grads"]
+graduation_date: "2022"
 
 # Status emoji
 #status:

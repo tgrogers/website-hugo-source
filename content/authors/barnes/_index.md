@@ -9,6 +9,7 @@ title: Aaron Barnes
 first_name: Aaron
 last_name: Barnes
 user_groups: ["PhD Grads"]
+graduation_date: "2025"
 
 # Status emoji
 #status:

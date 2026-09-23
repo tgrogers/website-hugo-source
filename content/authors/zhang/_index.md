@@ -9,6 +9,7 @@ title: Mengchi Zhang
 first_name: Mengchi
 last_name: Zhang
 user_groups: ["PhD Grads"]
+graduation_date: "2022"
 
 # Status emoji
 #status:

@@ -78,6 +78,8 @@ sections:
       title: PhD Alumni
       user_groups:
         - PhD Grads
+      sort_by: graduation_date
+      sort_ascending: false
     design:
         show_social: true
         show_role: true

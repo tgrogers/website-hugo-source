@@ -9,6 +9,7 @@ title: Ahmad Alawneh
 first_name: Ahmad
 last_name: Alawneh
 user_groups: ["PhD Grads"]
+graduation_date: "2026"
 
 # Status emoji
 #status:

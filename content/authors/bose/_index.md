@@ -8,7 +8,8 @@ title: Christin Bose
 # Full name (for SEO)
 first_name: Christin
 last_name: Bose
-user_groups: ["PhD Student"]
+user_groups: ["PhD Grads"]
+graduation_date: "2026"
 
 # Status emoji
 #status:
@@ -18,10 +19,11 @@ user_groups: ["PhD Student"]
 superuser: false
 
 # Role/position/tagline
-role: "PhD Student"
+role: "PhD Graduate, 2026"
 
 interests:
-    - "Internships: Microsoft Research (Summer 2025), Meta (Spring 2022), Google (Summer 2021)"
+    - "Current Position: GPU Performance Engineer, NVIDIA"
+#    - "Internships: Microsoft Research (Summer 2025), Meta (Spring 2022), Google (Summer 2021)"
 
 # Organizations/Affiliations to show in About widget
 #organizations:

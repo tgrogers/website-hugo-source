@@ -9,6 +9,7 @@ title: Tsung Tai Yeh
 first_name: Tsung Tai
 last_name: Yeh
 user_groups: ["PhD Grads"]
+graduation_date: "2020"
 
 # Status emoji
 #status:
