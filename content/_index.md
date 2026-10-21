@@ -73,6 +73,7 @@ sections:
     design:
         show_social: true
         show_role: true
+        balance_rows: true
   - block: people
     content:
       title: PhD Alumni
@@ -83,6 +84,7 @@ sections:
     design:
         show_social: true
         show_role: true
+        balance_rows: true
 #  - block: people
 #    content:
 #      title: Masters/Undergraduate Students
@@ -90,9 +92,9 @@ sections:
 #        - Masters Thesis
 #        - Masters Project
 #        - Undergrad Research
-    design:
-        show_social: true
-        show_role: true
+#    design:
+#        show_social: true
+#        show_role: true
   - block: people
     content:
       title: Masters/Undergraduate Alumni
@@ -103,6 +105,7 @@ sections:
     design:
         show_social: true
         show_role: true
+        balance_rows: true
 #  - block: collection
 #    id: talks
 #    content:
