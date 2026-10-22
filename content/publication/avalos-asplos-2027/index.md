@@ -39,6 +39,9 @@ featured: true
 
 
 
+url_pdf: '/avalos-asplos-2027.pdf'
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal point (optional)
